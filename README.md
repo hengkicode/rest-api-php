@@ -1,8 +1,8 @@
 # rest-api-php
 
-Tutorial CRUD REST API menggunakan PHP dan MySQL dalam bentuk object oriented..<br/>
+Tutorial CRUD REST API menggunakan PHP dan MySQL dalam bentuk object oriented.. [OOP Version]<br/>
 <br/>
-Spesifikaksi 
+Spesifikaksi kebutuhan software
 - php 7.3
 - MySQL 5.7
 - Testing Meggunakan Postman Version 5.5.5
@@ -18,7 +18,7 @@ Hasil Testing Menggunakan Postman<br/>
 <br/>
 <br/>
 
- <a href="https://www.indonetsource.com/tag/php-rest-api-tutorial/">tutorial belajar rest api indonetsource</a> 
+ CRUD Lengkap <a href="https://www.indonetsource.com/tag/php-rest-api-tutorial/">tutorial belajar rest api indonetsource</a> 
 
 
 
